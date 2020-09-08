@@ -1,0 +1,86 @@
+{
+  "products" : [
+    {
+      "id" : 1 ,
+      "name" : "Pizza Bella",
+      "description": "This is deal Number 1",
+      "imageUrl": "https://media.gettyimages.com/photos/closeup-of-pizza-on-table-picture-id995467932?s=612x612",
+      "price": 299
+    },
+    {
+      "id" : 2 ,
+      "name" : "Pizza Chicken",
+      "description": "This is deal Number 2",
+      "imageUrl": "https://media.gettyimages.com/photos/closeup-of-pizza-on-table-picture-id995467932?s=612x612",
+      "price": 399
+    },
+    {
+      "id" : 3 ,
+      "name" : "Pizza BBQ",
+      "description": "This is deal Number 3",
+      "imageUrl": "https://media.gettyimages.com/photos/closeup-of-pizza-on-table-picture-id995467932?s=612x612",
+      "price": 20
+    },
+    {
+      "id" : 4 ,
+      "name" : "Pizza BBQ",
+      "description": "This is deal Number 4",
+      "imageUrl": "https://media.gettyimages.com/photos/closeup-of-pizza-on-table-picture-id995467932?s=612x612",
+      "price": 1299
+    },
+    {
+      "id" : 5 ,
+      "name" : "Pizza BBQ",
+      "description": "This is deal Number 5",
+      "imageUrl": "https://media.gettyimages.com/photos/closeup-of-pizza-on-table-picture-id995467932?s=612x612",
+      "price": 85
+    },
+    {
+      "id" : 6 ,
+      "name" : "Pizza BBQ",
+      "description": "This is deal Number 6",
+      "imageUrl": "https://media.gettyimages.com/photos/closeup-of-pizza-on-table-picture-id995467932?s=612x612",
+      "price": 90
+    },
+    {
+      "id" : 7 ,
+      "name" : "Pizza BBQ",
+      "description": "This is deal Number 7",
+      "imageUrl": "https://media.gettyimages.com/photos/closeup-of-pizza-on-table-picture-id995467932?s=612x612",
+      "price": 75
+    },
+    {
+      "id" : 8 ,
+      "name" : "Pizza Fajita",
+      "description": "This is deal Number 8",
+      "imageUrl": "https://media.gettyimages.com/photos/closeup-of-pizza-on-table-picture-id995467932?s=612x612",
+      "price": 129
+    },
+    {
+      "id" : 9,
+      "name" : "Pizza Fajita",
+      "description": "This is deal Number 9",
+      "imageUrl": "https://media.gettyimages.com/photos/closeup-of-pizza-on-table-picture-id995467932?s=612x612",
+      "price": 19
+    }
+
+  ],
+  "carts":[],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
